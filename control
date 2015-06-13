@@ -1,0 +1,9 @@
+Package: com.weh.assistivetouchswitch
+Name: AssistiveTouchSwitch
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An Assistive Touch Flipswitch!
+Maintainer: Mason Sciotti
+Author: Mason Sciotti
+Section: Addons (Flipswitch)
