@@ -1,3 +1,4 @@
+ARCHS = arm64 armv7
 include theos/makefiles/common.mk
 
 BUNDLE_NAME = AssistiveTouchSwitch
